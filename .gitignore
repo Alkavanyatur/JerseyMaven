@@ -1,0 +1,7 @@
+#.gitignore
+
+/.settings
+*.war
+*.class
+/target
+pom.properties
