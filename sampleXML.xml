@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T:TicketBai xmlns:T="urn:ticketbai:emision" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:ticketbai:emision ticketBaiV1-2.xsd ">
+   <Cabecera>
+      testXML
+   </Cabecera>
+</T:TicketBai>
