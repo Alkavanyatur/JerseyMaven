@@ -2,8 +2,11 @@
 Jersey concept. TBAI XML. Adding namespace to the first node and removing on the child node.
 
 The sample code adds the namespace "T" to the header and also the attributes on the header.
+
 Also adds the others nodes without namespace (Using namespace="").
+
 Reads the sampleXML pass it throught an object and prints it again.
+
 
 This is the sample:
 
